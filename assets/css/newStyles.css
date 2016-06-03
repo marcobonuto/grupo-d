@@ -1,0 +1,13 @@
+/* #banner */
+#banner { padding: 10em 0 12em 0 !important; }
+#banner .logoBanner { display: inline-block; *display: inline; *zoom: 1; margin-bottom: 15px; }
+#banner .logoBanner h2 { display: none; }
+.dilejd-box ul {   }
+.dilejd-box ul li { width: 33%; height: auto; margin: 0; padding: 0 15px; display: inline-block; *display: inline; *zoom: 1; vertical-align: top;  }
+.dilejd-box h3 { font-size: 2.5rem; line-height: 1.2; margin:0 0 10px; }
+.dilejd-box p { font-size: 1rem; line-height: 1.35; margin-bottom: 0; }
+.txtjustify { text-align: justify; }
+.txtleft { text-align: left; }
+.table-infos { width: 100%; height: auto; position: relative; }
+.table-infos tr { background: none !important; border-top: 0 none !important; }
+.table-infos tr td { vertical-align: top; }
